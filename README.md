@@ -4,7 +4,7 @@
 From the base directory, you can install the package with:
 
 ```bash
-pip install -e .
+pip install .
 ```
 
 You can also install from a whl/tar.gz.archive. See section 'Build'.
